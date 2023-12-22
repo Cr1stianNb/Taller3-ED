@@ -5,7 +5,10 @@ g++ -o main.exe main.cpp
 
 ### Respecto al código del taller
 Se utilizo el algortimo bellman Ford para encontrar el camino más corto respecto a un nodo origen. 
-$$O(V\dot E)$$ 
+$$
+O(V \cdot E)
+$$
+
 Donde: 
 V: Cantidad de vertices del grafo
 E: Cantidad de aristas del grafo
