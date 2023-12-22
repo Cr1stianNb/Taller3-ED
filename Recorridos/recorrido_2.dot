@@ -1,0 +1,9 @@
+graph Recorrido_0_TO_88
+{
+	0 -- 2 [label="7" ,color = "red"];
+	2 -- 272 [label="162" ,color = "red"];
+	272 -- 192 [label="1" ,color = "red"];
+	192 -- 91 [label="193" ,color = "red"];
+	91 -- 88 [label="7" ,color = "red"];
+}
+

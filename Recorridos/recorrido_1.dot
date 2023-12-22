@@ -1,0 +1,6 @@
+graph Recorrido_0_TO_1
+{
+	0 -- 2 [label="7" ,color = "red"];
+	2 -- 1 [label="7" ,color = "red"];
+}
+
