@@ -6,7 +6,7 @@ g++ -o main.exe main.cpp
 ### Respecto al código del taller
 Se utilizo el algortimo bellman Ford para encontrar el camino más corto respecto a un nodo origen. 
 $$
-O(V \cdot E)
+O(V \cdotE)
 $$
 
 Donde: 
